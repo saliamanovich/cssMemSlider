@@ -76,6 +76,8 @@ label, a{
 #active{ 
 	margin: 10% 0 0;
 	text-align: center;
+    align-self: self-end;
+    width: 400px;
 }
 
 #active label:hover{ 
